@@ -2,5 +2,6 @@
     "gemName": "vmware_fusion_client",
     "moduleName": "VMWareFusionClient",
     "gemAuthor": "Bryan Belanger",
+    "gemVersion": "1.0.1",
     "gemAuthorEmail": "bryan@fervid.us"
 }
